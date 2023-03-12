@@ -1,0 +1,52 @@
+.app {
+    display: flex;
+    flex-direction: row;
+    align-items: baseline;
+    justify-content: center;
+  }
+  
+  .search {
+    margin-top: 50px;
+    width: 70%;
+  }
+
+  .reading-list {
+    margin-top: 50px;
+    width: 30%;
+    margin-right: -100px;
+  }
+  
+  .btn {
+    margin-top: 10px;
+  }
+  
+  .book {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    width: 200px;
+  }
+  
+  .book img {
+    width: 150px;
+    height: 200px;
+  }  
+
+  /* App.css */
+
+/* .container {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+  }
+  
+  .search-list {
+    width: 50%;
+    margin-right: 20px;
+  }
+*/
+  .reading-list {
+    width: 50%;
+  }
+  
+  /* App.css */
